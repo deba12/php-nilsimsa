@@ -2,6 +2,7 @@
     "name": "deba12/php-nilsimsa",
     "description": "Library to calculate and compare Nilsimsa digests",
     "version": "1.0.1",
+    "license": "MIT",
     "autoload": {
         "files": ["nilsimsa.php"]
     }
